@@ -1,5 +1,5 @@
 # Beginner-Flutter-Projects
-I'll only include the bare minimum (only the dart files) . Rest can be easily done! 😄
+These are the projects i created in order to learn to make apps - both ios and andriod. Hope you enjoy!
 
 
 (Sorry for the small typo in the repo name! IDK if that can be fixed now 🤷‍♀️ )
